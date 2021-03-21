@@ -10,13 +10,13 @@
 💬 Могу что-то рассказать про ИТМО, Veeam ~~и Adrenaline rush~~ \
 ⚡ Живу идеей, что студенты прогеры могут самостоятельно выстраивать себе ИТ инфраструктуру, чтобы улучшать процесс образования \
 
-А еще меня можно найти туть: https://t.me/Im2strng4dtwrld
+А еще меня можно найти туть: https://t.me/FrediKats
 
 ---
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=inredikawb&show_icons=true&include_all_commits=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=FrediKats&show_icons=true&include_all_commits=true" />
 </div>
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=inredikawb&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-frame=true&margin-h=15&row=2&column=3" />
+   <img src="https://github-profile-trophy.vercel.app/?username=FrediKats&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-frame=true&margin-h=15&row=2&column=3" />
 </div>
